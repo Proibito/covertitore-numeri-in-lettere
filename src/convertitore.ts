@@ -1,4 +1,4 @@
-export const trasformatore = function (numero: number): string {
+export function trasformatore(numero: number): string {
     let numstr = numero.toString()
     const mono = ["", "uno", "due", "tre", "quattro", "cinque", "sei", "sette", "otto", "nove"];
     const duplo = ["dieci", "undici", "dodici", mono[3] + "dici", "quattordici", "quindici", "sedici", "dicias" + mono[7], "dici" + mono[8], "dician" + mono[9]];
