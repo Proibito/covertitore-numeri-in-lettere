@@ -6,7 +6,9 @@
     "build": "tsc",
     "publish": "npm publish"
   },
-  "keywords": [],
+  "homepage": "https://github.com/Proibito/covertitore-numeri-in-lettere",
+  "repository": "https://github.com/Proibito/covertitore-numeri-in-lettere",
+  "keywords": ["convertitore", "converti-numeri-in-lettere", "javascript", "italia", "italiano"],
   "author": "Proibito04",
   "license": "ISC",
   "description": "Un convertitore di numeri in lettere per node",
