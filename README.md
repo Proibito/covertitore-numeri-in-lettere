@@ -2,8 +2,9 @@
 
 ## Una funzione semplice di convertitore di numeri in lettere.
 
-> `npm i covertitore-numeri-in-lettere` <br>
-> `npm install covertitore-numeri-in-lettere`
+> npm i covertitore-numeri-in-lettere
+> 
+> npm install covertitore-numeri-in-lettere
 
 ---
 

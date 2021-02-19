@@ -1,6 +1,6 @@
 {
   "name": "covertitore-numeri-in-lettere",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
