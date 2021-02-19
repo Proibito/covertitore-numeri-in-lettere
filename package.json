@@ -1,10 +1,9 @@
 {
-  "name": "covertitore-numeri-in-lettere",
+  "name": "convertitore-numeri-in-lettere",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
-    "publish": "npm publish"
+    "build": "tsc"
   },
   "homepage": "https://github.com/Proibito/covertitore-numeri-in-lettere",
   "repository": "https://github.com/Proibito/covertitore-numeri-in-lettere",
