@@ -1,0 +1,18 @@
+{
+  "name": "covertitore-numeri-in-lettere",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "publish": "npm publish"
+  },
+  "keywords": [],
+  "author": "Proibito04",
+  "license": "ISC",
+  "description": "Un convertitore di numeri in lettere per node",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.3.0",
+    "typescript": "^4.1.5"
+  }
+}
